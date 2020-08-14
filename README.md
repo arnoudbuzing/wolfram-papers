@@ -1,5 +1,4 @@
-# wolfram-papers
-Scientific papers using Mathematica and/or Wolfram Technologies
+# Scientific papers using Mathematica and/or Wolfram Technologies
 
 ## Journal of Astronomy and Space Sciences
 
